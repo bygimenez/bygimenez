@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bygimenez.bygimenez&left_color=black&right_color=black"  />
-</div>
-
-###
-
 <h3 align="left">💫 About Me:</h3>
 
 ###
@@ -62,10 +56,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/	6nnzy5kyagna5sy1fj0042utq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
