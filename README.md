@@ -1,4 +1,5 @@
 ### Working at @IAHispano and @model-ai as fullstack developer
+#### Active projects: [Project Marketplace](https://github.com/bygimenez/project-marketplace), [IA Hispano](https://github.com/IAHispano)
 
 
 ## 🌐 Socials:
