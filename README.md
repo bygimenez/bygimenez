@@ -1,5 +1,5 @@
-### Working at @IAHispano and @model-ai as fullstack developer
-##### Active projects: [Project Marketplace](https://github.com/bygimenez/project-marketplace), [IA Hispano](https://github.com/IAHispano)
+### Working at [IAHispano](https://github.com/IAHispano) and [Applio](https://github.com/IAHispano/Applio-RVC-Fork) as fullstack developer
+##### Active projects: [Project Marketplace](https://github.com/bygimenez/project-marketplace), [IA Hispano](https://github.com/IAHispano) and [Applio Installer](https://github.com/IAHispano/Applio-Installer)
 
 
 ## 🌐 Socials:
