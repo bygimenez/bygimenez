@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Gimenez, a fullstack developer who works daily to simplify technology.</h2>
+<h1 align="left">Hi, I'm Gimenez, a fullstack developer who works daily to simplify technology.</h1>
 
 ###
 
