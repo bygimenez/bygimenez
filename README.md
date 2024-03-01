@@ -1,4 +1,4 @@
-# 👋
+# Hey! 👋
 
 I'm Gimenez, a full-stack developer working every day to simplify technology. I'm also an artificial intelligence enthusiast!
 
