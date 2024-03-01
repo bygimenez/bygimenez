@@ -1,8 +1,9 @@
 # Hey! 👋
 
-I'm Gimenez, a full-stack developer working every day to simplify technology. I'm also an artificial intelligence enthusiast!
+I'm Giménez, a full-stack developer dedicated to simplifying technology day by day, and I'm also an artificial intelligence enthusiast!
 
-Currently, I spend my time on [AI Hispano](https://github.com/iahispano) , although i am open to work on any other project.
+Currently, I'm focused on [AI Hispano](https://github.com/iahispano), although I'm open to participate in other projects.
+
 
 <details>
 <summary>🧑‍💻 More about my coding stats</summary>
